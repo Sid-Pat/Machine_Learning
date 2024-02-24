@@ -1,0 +1,3 @@
+1. Write a python program of naive bayes classifier for iris dataset classification .
+2.  Write a python program of naive bayes classifier for Play Tennis dataset classification 
+3. Write a python program of naive bayes classifier for Large Movie Review Dataset dataset classification 
