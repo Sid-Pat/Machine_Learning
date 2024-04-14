@@ -1,0 +1,7 @@
+*.txt
+*.dat
+*.zip
+*.csv
+*.pdf
+*.odt
+*-checkpoint.ipynb
